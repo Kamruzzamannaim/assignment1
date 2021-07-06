@@ -1,0 +1,68 @@
+body {
+  font-size: 35px;
+  margin: 0%;
+  padding-left: 40px;
+}
+.orange {
+  color: orange;
+}
+section {
+  display: flex;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(red, orange);
+  padding: 10px 40px;
+  border-radius: 20px;
+  color: white;
+  font-weight: 700;
+}
+.half-width {
+  width: 50%;
+}
+
+.half-width img {
+  width: 80%;
+}
+.margin {
+  margin-top: 40px;
+  background-image: url(7.png);
+  background-repeat: no-repeat;
+  padding-right: 100px;
+  padding-bottom: 20px;
+}
+.fourth-part {
+  display: flex;
+  margin-bottom: 200px;
+}
+.three-width {
+  width: 20%;
+  padding-left: 4%;
+  box-shadow: 10px 10px 50px gray;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 20px;
+  border-radius: 10px;
+}
+#naim {
+  text-align: center;
+}
+.bottom-style{
+    width: 15%;
+    height: 10%;
+    padding-left: 5%;
+    margin-left: 10%;
+    margin-right:5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px gray;
+   
+}
+.white{
+    color: white;
+}
+footer{
+    
+    text-align: center;
+    background-color:darkslategrey;
+    
